@@ -9,7 +9,7 @@ This GitHub is part of [the Travis C++ Tutorial](https://github.com/richelbilder
 The goal of this project is to have a clean Travis CI build, with specs:
  * Build system: `qmake`
  * C++ compiler: `gcc`
- * C++ version: `C++11`
+ * C++ version: `C++14`
  * Libraries: `STL` and `Qt5` using QTest
  * Code coverage: none
  * GUI testing: QTest
